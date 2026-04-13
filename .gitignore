@@ -1,0 +1,9 @@
+.vscode/
+*.zip
+*.safetensors
+__pycache__/
+*.log
+*.png
+*.jpeg
+*.jpg
+*.json
