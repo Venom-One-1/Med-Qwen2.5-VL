@@ -1,0 +1,17 @@
+# Core runtime
+numpy>=1.24
+Pillow>=10.0
+PyYAML>=6.0
+scikit-learn>=1.4
+
+# Deep learning stack
+torch>=2.4
+transformers>=4.56.1
+peft>=0.14
+accelerate>=0.34
+safetensors>=0.4
+
+# Optional but recommended when integrating with a Llama-Factory fork
+datasets>=2.20
+sentencepiece>=0.2.0
+tqdm>=4.66
